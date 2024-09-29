@@ -9,6 +9,7 @@ Stellar is an educational app built to provide users with fascinating informatio
 - [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
+- [Dependency](#dependency)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -55,6 +56,20 @@ Make sure you have the following installed on your machine:
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 
+## DEPENDENCY
+    "axios": "^0.26.0",
+    "expo-status-bar": "~1.4.0",
+    "react-native-maps": "0.31.1",
+    "react-native-screens": "~3.15.0",
+    "react-native-webview": "11.23.0",
+    "@react-navigation/stack": "^6.1.1",
+    "react-native-reanimated": "~2.9.1",
+    "@react-navigation/native": "^6.0.8",
+    "react-native-gesture-handler": "~2.5.0",
+    "react-native-safe-area-context": "4.3.1",
+    "@react-native-community/masked-view": "^0.1.11"
+
+
 ### Installation
 Open this link: https://snack.expo.dev/
 then press on the vertical ellipsis
@@ -66,3 +81,6 @@ Open this link: https://snack.expo.dev/
 then press on the vertical ellipsis
 then select "Import git repository"
 then paste the link of GitHub repository "https://github.com/BhishmaGaudani/Stellar"
+then click on IOS on right hand side
+
+
