@@ -62,5 +62,7 @@ then select "Import git repository"
 then paste the link of GitHub repository "https://github.com/BhishmaGaudani/Stellar"
 
 ```bash
-git clone https://github.com/BhishmaGaudani/Stellar.git
-cd Stellar
+Open this link: https://snack.expo.dev/
+then press on the vertical ellipsis
+then select "Import git repository"
+then paste the link of GitHub repository "https://github.com/BhishmaGaudani/Stellar"
