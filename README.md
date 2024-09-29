@@ -38,7 +38,7 @@ The main menu provides three interactive options:
 
 ### Spacecrafts Section
 ![Spacecraft Info]
-<img width="1512" alt="Screenshot 2023-10-22 at 6 55 12 AM" src="https://github.com/ritessshhh/TimeLy/assets/81812754/2bc51d23-1341-4f30-bc01-93999aa55641">
+// <img width="1512" alt="Screenshot 2023-10-22 at 6 55 12 AM" src="">
 
 The Spacecraft section features detailed descriptions and images of notable NASA spacecraft, such as the Apollo Lunar Module.
 
