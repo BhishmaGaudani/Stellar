@@ -6,6 +6,7 @@ Stellar is an educational app built to provide users with fascinating informatio
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Screenshots](#screenshots)
+- [Prerequisites](#prerequisites)
 - [Dependency](#dependency)
 - [Installation](#installation)
 
