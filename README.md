@@ -36,7 +36,7 @@ The main menu provides three interactive options:
 
 ### Spacecrafts Section
 ![Spacecraft Info]
-// <img width="1512" alt="Screenshot 2023-10-22 at 6 55 12 AM" src="">
+// <img width="1512" alt="MainScreen" src="https://github.com/BhishmaGaudani/Stellar/blob/main/assets/MainScreen.png">
 
 The Spacecraft section features detailed descriptions and images of notable NASA spacecraft, such as the Apollo Lunar Module.
 
