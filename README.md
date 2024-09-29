@@ -36,7 +36,8 @@ The main menu provides three interactive options:
 - **Daily Pictures**: View daily astronomy photos.
 
 ### Spacecrafts Section
-![Spacecraft Info](<img width="1512" alt="Screenshot 2023-10-22 at 6 55 12 AM" src="https://github.com/ritessshhh/TimeLy/assets/81812754/2bc51d23-1341-4f30-bc01-93999aa55641">)
+![Spacecraft Info]
+<img width="1512" alt="Screenshot 2023-10-22 at 6 55 12 AM" src="https://github.com/ritessshhh/TimeLy/assets/81812754/2bc51d23-1341-4f30-bc01-93999aa55641">
 
 The Spacecraft section features detailed descriptions and images of notable NASA spacecraft, such as the Apollo Lunar Module.
 
@@ -55,7 +56,10 @@ Make sure you have the following installed on your machine:
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 
 ### Installation
-Clone the repository:
+Open this link: https://snack.expo.dev/
+then press on the vertical ellipsis
+then select "Import git repository"
+then paste the link of GitHub repository "https://github.com/BhishmaGaudani/Stellar"
 
 ```bash
 git clone https://github.com/BhishmaGaudani/Stellar.git
