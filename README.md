@@ -11,8 +11,6 @@ Stellar is an educational app built to provide users with fascinating informatio
 - [Installation](#installation)
 - [Dependency](#dependency)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Spacecraft Information**: Explore detailed information about various spacecraft missions powered by NASA’s vast dataset.
