@@ -1,5 +1,4 @@
 # Stellar: Space Exploration Info App
-# Stellar: Space Exploration Info App
 
 Stellar is an educational app built to provide users with fascinating information about space. It uses NASA's API to display daily pictures, spacecraft information, and star maps. The app features a clean, intuitive interface for users to explore the wonders of the universe.
 
