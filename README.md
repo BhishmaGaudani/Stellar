@@ -6,9 +6,8 @@ Stellar is an educational app built to provide users with fascinating informatio
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Screenshots](#screenshots)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
 - [Dependency](#dependency)
+- [Installation](#installation)
 
 ## Features
 - **Spacecraft Information**: Explore detailed information about various spacecraft missions powered by NASA’s vast dataset.
@@ -48,9 +47,9 @@ Follow the instructions below to get started with Stellar.
 
 ### Prerequisites
 Make sure you have the following installed on your machine:
-- [Node.js](https://nodejs.org/en/) (version 16.x or later)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
-- [Expo CLI](https://docs.expo.dev/get-started/installation/)
+- https://snack.expo.dev/
+
 
 ## DEPENDENCY
     "axios": "^0.26.0",
