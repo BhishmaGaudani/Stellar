@@ -27,7 +27,9 @@ Stellar is an educational app built to provide users with fascinating informatio
 ## Screenshots
 
 ### Main Menu
-![Stellar App Main Menu](./path-to-main-menu-image)
+Main Screen
+<img width="500" height="800" alt="MainScreen" src="https://github.com/BhishmaGaudani/Stellar/blob/main/assets/MainScreen.png">
+
 
 The main menu provides three interactive options:
 - **Spacecrafts**: Displays detailed information about NASA spacecrafts.
@@ -35,8 +37,8 @@ The main menu provides three interactive options:
 - **Daily Pictures**: View daily astronomy photos.
 
 ### Spacecrafts Section
-![Spacecraft Info]
-// <img width="1512" alt="MainScreen" src="https://github.com/BhishmaGaudani/Stellar/blob/main/assets/MainScreen.png">
+SpaceCraft Screen
+<img width="500" height="800" alt="MainScreen" src="https://github.com/BhishmaGaudani/Stellar/blob/main/assets/SpaceCraft.png">
 
 The Spacecraft section features detailed descriptions and images of notable NASA spacecraft, such as the Apollo Lunar Module.
 
