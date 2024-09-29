@@ -41,7 +41,7 @@ The main menu provides three interactive options:
 The Spacecraft section features detailed descriptions and images of notable NASA spacecraft, such as the Apollo Lunar Module.
 
 ### Daily Pictures Section
-![Daily Pictures](./path-to-daily-pictures-image)
+<img width="200" height="400" alt="DailyNews" src="https://github.com/BhishmaGaudani/Stellar/blob/main/assets/DailyNews.png">
 
 In the Daily Pictures section, users can explore breathtaking astronomical images, such as stellar streams and galaxies, with accompanying informative descriptions.
 
