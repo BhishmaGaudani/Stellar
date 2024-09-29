@@ -1,10 +1,12 @@
 # Stellar: Space Exploration Info App
+# Stellar: Space Exploration Info App
 
-Stellar is an educational application designed to provide detailed information about space, featuring photos, planets, spacecraft, and more, using NASA's vast API database.
+Stellar is an educational app built to provide users with fascinating information about space. It uses NASA's API to display daily pictures, spacecraft information, and star maps. The app features a clean, intuitive interface for users to explore the wonders of the universe.
 
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
+- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,10 +14,10 @@ Stellar is an educational application designed to provide detailed information a
 - [License](#license)
 
 ## Features
-- **Educational Content**: Uses NASA APIs with 1M+ data points to educate users about various aspects of space, such as photos, planets, and spacecraft.
-- **Cross-platform Functionality**: Built with React Native and Expo, ensuring compatibility across both iOS and Android devices.
-- **API Success Rate**: The app implements RESTful API calls with a 100% API success rate, ensuring smooth and reliable data fetching from NASA's servers.
-- **Real-Time Data**: Fetches up-to-date information from NASA’s database using efficient API calls.
+- **Spacecraft Information**: Explore detailed information about various spacecraft missions powered by NASA’s vast dataset.
+- **Star Map**: View star maps and get a deeper understanding of celestial bodies.
+- **Daily Pictures**: Enjoy stunning images from space, including the NASA Astronomy Picture of the Day (APOD).
+- **Cross-platform**: Works seamlessly on both iOS and Android through React Native and Expo.
 
 ## Tech Stack
 - **Languages**: JavaScript
@@ -23,11 +25,31 @@ Stellar is an educational application designed to provide detailed information a
 - **Backend**: Firebase
 - **APIs**: NASA API
 
+## Screenshots
+
+### Main Menu
+![Stellar App Main Menu](./path-to-main-menu-image)
+
+The main menu provides three interactive options:
+- **Spacecrafts**: Displays detailed information about NASA spacecrafts.
+- **Star Map**: Navigate through celestial bodies.
+- **Daily Pictures**: View daily astronomy photos.
+
+### Spacecrafts Section
+![Spacecraft Info](./path-to-spacecraft-info-image)
+
+The Spacecraft section features detailed descriptions and images of notable NASA spacecraft, such as the Apollo Lunar Module.
+
+### Daily Pictures Section
+![Daily Pictures](./path-to-daily-pictures-image)
+
+In the Daily Pictures section, users can explore breathtaking astronomical images, such as stellar streams and galaxies, with accompanying informative descriptions.
+
 ## Getting Started
-To get started with Stellar, follow the instructions below.
+Follow the instructions below to get started with Stellar.
 
 ### Prerequisites
-Ensure you have the following software installed:
+Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en/) (version 16.x or later)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
